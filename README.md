@@ -6,7 +6,7 @@
 
 - **Not Working**: hiking, long walks, staring at wildlife, reading  
 
-- **Big Fan**: Linux, strongly-typed languages, minimalism, Vim  
+- **Big Fan**: Linux, strongly-typed languages, minimalism, vim, non-tomato fruits & vegetables  
 
 - **Avoiding**: social media, tomatoes [1]  
 
