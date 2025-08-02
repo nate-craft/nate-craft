@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, Thanks for Visiting 👋
 
-<!--
-**nate-craft/nate-craft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Focusing on back-end development and high performance, usable, and minimal code**
+  
+- **Working**: `Rust`, `C`, `Java`, `PHP`, `JavaScipt`, `SQL`  
 
-Here are some ideas to get you started:
+- **Not Working**: hiking, long walks, staring at wildlife, reading  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Big Fan**: Linux, strongly-typed languages, minimalism, Vim  
+
+- **Avoiding**: social media, tomatoes [1]  
+
+- **Ethos**: use modern tools to create products usable on ancient hardware
+___
+
+\[1\] *not including tomato-based sauces*
